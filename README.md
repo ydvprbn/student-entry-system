@@ -56,18 +56,18 @@ To run this project locally, follow these steps:
    http://127.0.0.1:8000/api/student/
    ```
    **Perform Different HTTP Methods**
-    > GET (Retrieve a list of students)
+    > GET (Retrieve a list of students):
       - GET: /api/student/
       - Click the GET button and retrieve a list of students
-    
-    > POST (Create a new student)
+       :
+    > POST (Create a new student):
       - POST: /api/student/
       - Enter student details in the form, then "POST"
-
+      :
     > PUT (Update an existing student):
       - PUT: /api/student/{id}/
       - Change the values and select "PUT"
-   
+      :
     > DELETE (Remove a student):
       - DELETE: /api/student/{id}/
       - Click "DELETE"
