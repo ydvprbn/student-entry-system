@@ -59,20 +59,23 @@ To run this project locally, follow these steps:
     > GET (Retrieve a list of students)
       - GET: /api/student/
       - Click the GET button and retrieve a list of students
+
     
     > POST (Create a new student)
       - POST: /api/student/
       - Enter student details in the form, then "POST"
-      
-    > PUT (Update an existing student:
+
+
+    > PUT (Update an existing student):
       - PUT: /api/student/{id}/
       - Change the values and select "PUT"
+
    
-     > DELETE (Remove a student)
+     > DELETE (Remove a student):
        - DELETE: /api/student/{id}/
        - Click "DELETE"
        
-9. **Open your web browser and navigate to following URL adresss to access Admin Panel:**
+8. **Open your web browser and navigate to following URL adresss to access Admin Panel:**
    ```
    http://127.0.0.1:8000/admin/
    ```   
